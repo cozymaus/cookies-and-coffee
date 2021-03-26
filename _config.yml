@@ -4,7 +4,7 @@ description:        "A static jekyll theme by Liz Lorena"
 keywords:           "web design, portfolio, blog, jekyll, theme"
 
 #Custom Settings
-avatar: "https://lizlorena.com/img/logos/cozymaus-2020-transparent-2.png"
+avatar: "{{ site.url }}/img/logos/cozymaus-2020-transparent-2.png"
 name: "Liz Lorena"
 bio: "Web Designer <br><br> This is my cute lil website theme called Cookies & Coffee. Hope you like it."
 #theme: 
